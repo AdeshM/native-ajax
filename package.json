@@ -1,0 +1,31 @@
+{
+  "name": "native-ajax",
+  "version": "0.1.0",
+  "description": "Module native-ajax is designed to be the simplest possible way to make http calls.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdeshM/native-ajax.git"
+  },
+  "keywords": [
+    "ajax",
+    "http",
+    "simple",
+    "xhr",
+    "util",
+    "utility"
+  ],
+  "author": "Adesh M <aaadesh@gmail.com> (http://www.aaadesh.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdeshM/native-ajax/issues"
+  },
+  "homepage": "https://github.com/AdeshM/native-ajax#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.1"
+  }
+}
